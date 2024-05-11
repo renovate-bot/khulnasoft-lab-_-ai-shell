@@ -234,12 +234,3 @@ ai update
 欢迎加入 [khulnasoft.com Discord](https://discord.gg/EMx6e58xnw) 并在 #ai-shell 房间与我们聊天。
 
 <br><br>
-
-<p align="center">
-   <a href="https://www.khulnasoft.com/m/developers">
-      <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/844291/230786554-eb225eeb-2f6b-4286-b8c2-535b1131744a.png">
-         <img width="250" alt="Made with love by khulnasoft.com" src="https://user-images.githubusercontent.com/844291/230786555-a58479e4-75f3-4222-a6eb-74c5af953eac.png">
-       </picture>
-   </a>
-</p>

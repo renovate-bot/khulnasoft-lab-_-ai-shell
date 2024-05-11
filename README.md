@@ -233,12 +233,3 @@ If you want to help fix a bug or implement a feature in [Issues](https://github.
 Come join the [khulnasoft.com discord](https://discord.gg/EMx6e58xnw) and chat with us in the #ai-shell room
 
 <br><br>
-
-<p align="center">
-   <a href="https://www.khulnasoft.com/m/developers">
-      <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/844291/230786554-eb225eeb-2f6b-4286-b8c2-535b1131744a.png">
-         <img width="250" alt="Made with love by khulnasoft.com" src="https://user-images.githubusercontent.com/844291/230786555-a58479e4-75f3-4222-a6eb-74c5af953eac.png">
-       </picture>
-   </a>
-</p>
